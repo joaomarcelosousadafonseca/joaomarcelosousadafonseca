@@ -28,9 +28,9 @@ Driven by continuous learning, consistency, and long-term growth
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,postgres,c,html,css,git,figma,miro" />
+  <img src="https://skillicons.dev/icons?i=js,python,postgres,c,html,css,git,figma" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow" />
 </p>
-
 ---
 
 ## Activity
